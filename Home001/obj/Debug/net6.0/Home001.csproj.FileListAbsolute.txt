@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\bin\Debug\net6.0\Home001.exe
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\bin\Debug\net6.0\Home001.deps.json
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\bin\Debug\net6.0\Home001.runtimeconfig.json
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\bin\Debug\net6.0\Home001.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\bin\Debug\net6.0\Home001.pdb
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\refint\Home001.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.pdb
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\Home001.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Home001\obj\Debug\net6.0\ref\Home001.dll
