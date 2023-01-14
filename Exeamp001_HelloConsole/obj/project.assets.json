@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Examp\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ASUS\\Exampel\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj",
       "projectName": "Exeamp001_HelloConsole",
-      "projectPath": "C:\\Users\\User\\Desktop\\Examp\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Examp\\Exeamp001_HelloConsole\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\ASUS\\Exampel\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\ASUS\\Exampel\\Exeamp001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
