@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj": {}
+    "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Sem1\\Sem1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj": {
+    "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Sem1\\Sem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj",
-        "projectName": "Exeamp001_HelloConsole",
-        "projectPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp001_HelloConsole\\Exeamp001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Sem1\\Sem1.csproj",
+        "projectName": "Sem1",
+        "projectPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Sem1\\Sem1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Sem1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
