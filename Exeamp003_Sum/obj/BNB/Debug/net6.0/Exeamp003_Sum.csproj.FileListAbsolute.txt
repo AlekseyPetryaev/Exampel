@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\bin\BNB\Debug\net6.0\Exeamp003_Sum.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\bin\BNB\Debug\net6.0\Exeamp003_Sum.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\bin\BNB\Debug\net6.0\Exeamp003_Sum.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\bin\BNB\Debug\net6.0\Exeamp003_Sum.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\bin\BNB\Debug\net6.0\Exeamp003_Sum.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\refint\Exeamp003_Sum.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\Exeamp003_Sum.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp003_Sum\obj\BNB\Debug\net6.0\ref\Exeamp003_Sum.dll
