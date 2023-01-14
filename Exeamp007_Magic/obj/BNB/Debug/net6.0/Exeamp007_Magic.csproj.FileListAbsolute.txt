@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\bin\BNB\Debug\net6.0\Exeamp007_Magic.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\bin\BNB\Debug\net6.0\Exeamp007_Magic.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\bin\BNB\Debug\net6.0\Exeamp007_Magic.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\bin\BNB\Debug\net6.0\Exeamp007_Magic.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\bin\BNB\Debug\net6.0\Exeamp007_Magic.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\refint\Exeamp007_Magic.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\Exeamp007_Magic.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Exeamp007_Magic\obj\BNB\Debug\net6.0\ref\Exeamp007_Magic.dll
