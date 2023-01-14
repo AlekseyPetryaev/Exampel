@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\bin\Debug\net6.0\Exeamp002_HelloUser.exe
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\bin\Debug\net6.0\Exeamp002_HelloUser.deps.json
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\bin\Debug\net6.0\Exeamp002_HelloUser.runtimeconfig.json
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\bin\Debug\net6.0\Exeamp002_HelloUser.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\bin\Debug\net6.0\Exeamp002_HelloUser.pdb
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\refint\Exeamp002_HelloUser.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.pdb
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\Exeamp002_HelloUser.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp002_HelloUser\obj\Debug\net6.0\ref\Exeamp002_HelloUser.dll
