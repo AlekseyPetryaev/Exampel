@@ -1,15 +1,16 @@
-﻿Console.WriteLine("Введите имя пользователя: ");
-string username = Console.ReadLine();
-
-if(username.ToLower() == "маша") // как бы мы не записали слова с большой или с маленькой буквы теперь
-//                                   оно писаться как мы зададим ниже 
-//if(username == "Маша")
+﻿//Приглошение к вводу 
+Console.WriteLine("Введите имя пользователя: ");
+string username = Console.ReadLine()!;
+//Если имя Кристина
+//if(username.ToLower() == "Кристина") // как бы мы не записали слова с большой или с маленькой буквы будут
+//                                            отоброжаться как мы задали 
+if(username == "Кристина") // если это имя 
 {
-    Console.WriteLine("Ура, это же МАША");
+    Console.WriteLine("Люблю тебя"); //при совподении заданного имени будет это выражение  
 }
-else
+else // если будет не совподение то...
 {
-    Console.WriteLine("Привет, ");
+    Console.WriteLine("Иди спать, "); //при не совподении будет это вырожение 
     Console.WriteLine(username);
 } 
 
