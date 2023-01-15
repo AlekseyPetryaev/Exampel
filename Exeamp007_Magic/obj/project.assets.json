@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp007_Magic\\Exeamp007_Magic.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ASUS\\Exampel\\Exeamp007_Magic\\Exeamp007_Magic.csproj",
       "projectName": "Exeamp007_Magic",
-      "projectPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp007_Magic\\Exeamp007_Magic.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\Exeamp007_Magic\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\ASUS\\Exampel\\Exeamp007_Magic\\Exeamp007_Magic.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\ASUS\\Exampel\\Exeamp007_Magic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

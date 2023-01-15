@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\bin\Debug\net6.0\Exeamp007_Magic.exe
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\bin\Debug\net6.0\Exeamp007_Magic.deps.json
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\bin\Debug\net6.0\Exeamp007_Magic.runtimeconfig.json
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\bin\Debug\net6.0\Exeamp007_Magic.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\bin\Debug\net6.0\Exeamp007_Magic.pdb
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\refint\Exeamp007_Magic.dll
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.pdb
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\Exeamp007_Magic.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ASUS\Exampel\Exeamp007_Magic\obj\Debug\net6.0\ref\Exeamp007_Magic.dll
