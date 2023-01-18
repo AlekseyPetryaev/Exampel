@@ -7,33 +7,27 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */
 
-Console.Write("Введите число 1): "); //в терминале напишет то что ("........:  ");
+Console.Write("Введите число 1): ");//в терминале напишет то что ("........:  ");
 int numberA = int.Parse(Console.ReadLine()!); // работаем с цифрами 
-Console.Write("Введите число 2): "); //в терминале напишет то что ("........:  ");
+Console.Write("Введите число 2): ");//в терминале напишет то что ("........:  ");
 int numberB = int.Parse(Console.ReadLine()!); // работаем с цифрами
 // если надо перевести из строки в целочисленный тип то пишем это "int.Parse(Console.ReadLine()!);" 
-
 if (numberA==numberB )  //если А больше мах то будет мах
 {
     Console.WriteLine("Введите другие числа, эти равны!!!");
-
 }
 else 
 {
-
     if (numberA > numberB) //если А больше мах то будет мах
     {
-        Console.WriteLine($"максимальное чисело {numberA}");
-        Console.WriteLine($"минимальное чисело {numberB}");
-    
+        Console.WriteLine($"максимальное число {numberA}");
+        Console.WriteLine($"минимальное число {numberB}");
     }
     else 
     {
-        Console.WriteLine($"максимальное чисело {numberB}");
-        Console.WriteLine($"минимальное чисело {numberA}");
+        Console.WriteLine($"максимальное число {numberB}");
+        Console.WriteLine($"минимальное число {numberA}");
     }
-    
-
 }
   
 
