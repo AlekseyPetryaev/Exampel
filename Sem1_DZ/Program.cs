@@ -106,12 +106,12 @@ else
 
 Console.Write("Введите число: "); //в терминале напишет то что ("........:  ");
 int number = int.Parse(Console.ReadLine()!); // работаем с цифрами
-int count - 1;
+int count = 2;
 //while (count <= number)
 {
     if (number %2 == 0)
     {
-        Console.Write($"{}, ");
+        Console.Write($"{count}, ");
         //count++;
     }   
     count++;

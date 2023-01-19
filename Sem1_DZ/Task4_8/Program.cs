@@ -3,27 +3,17 @@
 //8 -> 2, 4, 6, 8
 /*
 Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine()!);
-int count = 1;
-while (count <= number)
+int numberA = int.Parse(Console.ReadLine()!);
+int numberB = 2; // count=2
+while(numberB<=numberA)// count<=numberA
 {
-    if (count % 2 == 0)
-    {
-        Console.Write($"{count}, ");
-    }
-    count++;
-    
+    Console.Write($"{numberB}, ");// {count}
+    numberB+=2; //count +=2
 }
+
 */
 
-Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine()!);
-int count = 2;
-while (count<=number)
-{
-    Console.Write($"{count}, ");
-    count +=2;
-}
+
 
 
 
