@@ -7,9 +7,6 @@
 
 Console.Write("Введите трёхзначное число: ");
 int num = int.Parse(Console.ReadLine()!);
-
 int numberA = num % 100;
 int numberB = numberA / 10;
-
-Console.Write("Второе число из трех: "); //задаем информацию которая будет отображаться в терминале (".....: ")
-Console.WriteLine(numberB);
+Console.WriteLine($"Второе число из трех {numberB}"); 

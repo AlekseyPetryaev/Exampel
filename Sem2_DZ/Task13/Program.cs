@@ -4,20 +4,18 @@
 78 -> третьей цифры нет
 32679 -> 6
 */
-
 Console.Write("Ведите число: ");
-int num = int.Parse(Console.ReadLine()!);
-
-
-if(num >= 100)
-{
-    int numA = num / 100;
-    Console.WriteLine($"Третья цифра заданного числа: {numA} ");
-}
-else
+int numA = int.Parse(Console.ReadLine()!);
+if(numA < 100)
 {
     Console.WriteLine("Третьей цифры нет!!! ");
+}  
+else
+{
+    int numD = numA / 100 % 10;
+    Console.WriteLine($"Третья цифра заданного числа: {numD} ");
 }
+
 
 
 
