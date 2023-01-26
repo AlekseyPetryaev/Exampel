@@ -167,15 +167,28 @@ while (count<=num)
 }
 */
 //Второй вариант
-
+/*
 Console.Clear();
 Console.Write("Введите число: ");
 int num = int.Parse( Console.ReadLine()!);
 
 int count=1;
-Console.Write($"{Math.Pow(count,2)}");
+Console.Write($"{Math.Pow(count,2)}"); 
 count++;
 while (count<=num)
 {
     Console.Write($", {Math.Pow(count++,2)} ");
+}
+*/
+//Вариант 3
+
+Console.Clear();
+Console.Write("Введите число: ");
+int num = int.Parse( Console.ReadLine()!);
+int count=1;
+while (count<=num)
+{
+    Console.Write($"{Math.Pow(count,2)} ");
+    if (count!=num) Console.Write(", ");
+    count++;
 }
