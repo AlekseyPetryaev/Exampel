@@ -4,7 +4,7 @@
 A (3,6,8); B (2,1,-7), -> 15.84
 A (7,-5, 0); B (1,-1,9) -> 11.53
 */
-
+/*
 Console.Clear();
 Console.Write("Введите координаты точеки X1: ");
 int X1 = int.Parse(Console.ReadLine()!);
@@ -23,3 +23,4 @@ double Y3 = Math.Pow(Y1 - Y2,2);
 double Z3 = Math.Pow(Z1 - Z2,2);
 double num = Math.Sqrt(X3 + Y3 + Z3);
 Console.WriteLine($"Расстояние между ними в 3D пространстве: {num:F2}");
+*/

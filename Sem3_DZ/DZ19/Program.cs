@@ -6,7 +6,7 @@
 12821 -> да
 23432 -> да
 */
-
+/*
 Console.Write("Введите пятизначное число: ");
 int num = int.Parse(Console.ReadLine()!);
 int numA = num /1000;
@@ -28,4 +28,4 @@ else
         Console.WriteLine($"Число не является палиндромом: {num}");
     }           
 }
-
+*/

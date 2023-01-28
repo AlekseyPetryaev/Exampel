@@ -5,7 +5,7 @@
 5 -> 1, 8, 27, 64, 125
 Console.WriteLine("Hello, World!");
 */
-
+/*
 Console.Clear();
 Console.Write("Введите число: ");
 int num = int.Parse( Console.ReadLine()!);
@@ -16,4 +16,4 @@ while (count<=num)
     if (count<num) Console.Write(", ");
     count++;
 }
-
+*/
