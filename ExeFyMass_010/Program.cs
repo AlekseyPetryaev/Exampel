@@ -107,7 +107,7 @@ void FillArray(int[] collection) //даем название методу FillaA
     }
 }
 
-void PrintArray(int[] col)//метод с название PrintArray который будет выводить(аргумент с нозванием Col) 
+void PrintArray(int[] col)//метод с название PrintArray который будет выводить(аргумент с названием Col) 
 {
     int count = col.Length;//получаем длину массива(количество элементов) и присваемаем название count
     int position = 0;//задаем счетчик с нуля позиции 
