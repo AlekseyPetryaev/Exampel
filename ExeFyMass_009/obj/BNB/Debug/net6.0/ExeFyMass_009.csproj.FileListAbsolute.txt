@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\bin\BNB\Debug\net6.0\ExeFyMass_009.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\bin\BNB\Debug\net6.0\ExeFyMass_009.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\bin\BNB\Debug\net6.0\ExeFyMass_009.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\bin\BNB\Debug\net6.0\ExeFyMass_009.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\bin\BNB\Debug\net6.0\ExeFyMass_009.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\refint\ExeFyMass_009.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ExeFyMass_009.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\ExeFyMass_009\obj\BNB\Debug\net6.0\ref\ExeFyMass_009.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExeFyMass_009/1.0.0": {
+        "runtime": {
+          "ExeFyMass_009.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExeFyMass_009/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
