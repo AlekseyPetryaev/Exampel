@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\bin\BNB\Debug\net6.0\MultiplicationTable.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\bin\BNB\Debug\net6.0\MultiplicationTable.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\bin\BNB\Debug\net6.0\MultiplicationTable.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\bin\BNB\Debug\net6.0\MultiplicationTable.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\bin\BNB\Debug\net6.0\MultiplicationTable.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\refint\MultiplicationTable.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\MultiplicationTable\obj\BNB\Debug\net6.0\ref\MultiplicationTable.dll
