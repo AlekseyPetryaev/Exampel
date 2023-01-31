@@ -7,7 +7,7 @@ Console.Write("Введите число : ");
 int num = int.Parse(Console.ReadLine()!);
 int sum = 0;
 int number = 0;
-void Met(string[] args)
+int Met(string[] args)
 {   
     while (num > 0)
     {
@@ -15,9 +15,12 @@ void Met(string[] args)
         sum = sum + number;
         num = num /10;
     }
-    Console.Write($"{sum} ");
+    return sum;
+    //Console.Write($"{sum} ");
 }
-Met(args);
+
+int dop = Met(args);
+Console.WriteLine($"Ответ: {dop}");
 Console.WriteLine("");
 
 

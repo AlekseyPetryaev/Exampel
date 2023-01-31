@@ -6,17 +6,21 @@
 Console.Clear();
 Console.Write("Введите число 1): ");
 int num = int.Parse(Console.ReadLine()!);
-Console.Write("Введите число 2): ");
+Console.Write("Введите степень 2): ");
 int numA = int.Parse(Console.ReadLine()!);
 int num3 = num;
-void Method1(int num, int numA)
+int Method1(int num, int numA)
 {
     int num3 = num;
     for(int i = 1 ;i < numA;i++)
     {
         num *= num3;   
     }
-    Console.Write($"{num} ");
+    return num;
+    //Console.Write($"{num} ");
 }
-Method1(num ,numA);
+
+int dop = Method1(num ,numA);
+Console.Write($"Ответ: {dop}");
+Console.WriteLine();
 
