@@ -1,30 +1,35 @@
 ﻿/* Задача38 Задайте массив вещественных чисел. Найдите разницу между максимальным 
 и минимальным элементом массива*/
 
+Console.Clear();
+
 double[] ReadArray(int Length, int min, int max) 
 {
-    int[] array = new int[5];
-    for(int i = 0; i < 5; i++)
+    double[] array = new double[Length];
+    for(int i = 0; i < Length ; i++)
     {
-        Console.Write("Введите элемент: ");
-        array[i] = int.Parse(Console.ReadLine()!);
+        array[i] = new Random().Next(min, max );
     }   
     return array;   
 }
 
-double PrintArray(int[] array)
+void DiffArray(double[] array)
 {
-    int count = 0;
-    for(int i = 0; i < array.Length; i++)
+    double min = array[0],max = array[0],Diff = 0;
+    for(int i = 1; i < array.Length; i++)
     {       
-        if(array[i] % 2 == 0) count ++;
+        if(array[i] < min) min = array[i];
+        else if (array[i] > max) max = array[i];
     }   
-    return count;
+    Diff = max - min;
+    Console.WriteLine($"Элемент массива max {max} - Элемент массива min {min} = Разница {Diff}");
 }
 
-doblo[] array = ReadArray(4, 100, 999);
-Console.WriteLine(string.Join(" ", array));
-Console.WriteLine($"Ответ: {PrintArray(array)}");
+double[] random = ReadArray(15, 1, 20);
+Console.WriteLine(string.Join(" ", random));
+DiffArray(random);
+
+
 
 
 
