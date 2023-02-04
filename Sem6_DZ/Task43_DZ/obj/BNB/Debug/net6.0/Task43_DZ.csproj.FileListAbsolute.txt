@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\bin\BNB\Debug\net6.0\Task43_DZ.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\bin\BNB\Debug\net6.0\Task43_DZ.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\bin\BNB\Debug\net6.0\Task43_DZ.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\bin\BNB\Debug\net6.0\Task43_DZ.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\bin\BNB\Debug\net6.0\Task43_DZ.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\refint\Task43_DZ.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\Task43_DZ.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem6_DZ\Task43_DZ\obj\BNB\Debug\net6.0\ref\Task43_DZ.dll
