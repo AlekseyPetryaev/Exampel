@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\bin\BNB\Debug\net6.0\Sem5.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\bin\BNB\Debug\net6.0\Sem5.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\bin\BNB\Debug\net6.0\Sem5.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\bin\BNB\Debug\net6.0\Sem5.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\bin\BNB\Debug\net6.0\Sem5.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\refint\Sem5.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\Sem5.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem5\obj\BNB\Debug\net6.0\ref\Sem5.dll

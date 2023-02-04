@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\bin\BNB\Debug\net6.0\DZ21.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\bin\BNB\Debug\net6.0\DZ21.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\bin\BNB\Debug\net6.0\DZ21.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\bin\BNB\Debug\net6.0\DZ21.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\bin\BNB\Debug\net6.0\DZ21.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\refint\DZ21.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\DZ21.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem3_DZ\DZ21\obj\BNB\Debug\net6.0\ref\DZ21.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\bin\BNB\Debug\net6.0\Task1_2.exe
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\bin\BNB\Debug\net6.0\Task1_2.deps.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\bin\BNB\Debug\net6.0\Task1_2.runtimeconfig.json
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\bin\BNB\Debug\net6.0\Task1_2.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\bin\BNB\Debug\net6.0\Task1_2.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.AssemblyInfo.cs
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\refint\Task1_2.dll
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.pdb
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\Task1_2.genruntimeconfig.cache
+C:\Users\User\Desktop\ExeampZ\Exampel\Sem1_DZ\Task1_2\obj\BNB\Debug\net6.0\ref\Task1_2.dll
