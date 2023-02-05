@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\FyMaxMin1\\FyMaxMin1.csproj": {}
+    "C:\\Users\\petra\\Desktop\\Vscode\\Exampel\\Lecture\\FyMaxMin1\\FyMaxMin1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\FyMaxMin1\\FyMaxMin1.csproj": {
+    "C:\\Users\\petra\\Desktop\\Vscode\\Exampel\\Lecture\\FyMaxMin1\\FyMaxMin1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\FyMaxMin1\\FyMaxMin1.csproj",
+        "projectUniqueName": "C:\\Users\\petra\\Desktop\\Vscode\\Exampel\\Lecture\\FyMaxMin1\\FyMaxMin1.csproj",
         "projectName": "FyMaxMin1",
-        "projectPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\FyMaxMin1\\FyMaxMin1.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ExeampZ\\Exampel\\FyMaxMin1\\obj\\",
+        "projectPath": "C:\\Users\\petra\\Desktop\\Vscode\\Exampel\\Lecture\\FyMaxMin1\\FyMaxMin1.csproj",
+        "packagesPath": "C:\\Users\\petra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\petra\\Desktop\\Vscode\\Exampel\\Lecture\\FyMaxMin1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\petra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

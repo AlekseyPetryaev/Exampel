@@ -1,0 +1,15 @@
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\bin\Debug\net6.0\FyMaxMin1.exe
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\bin\Debug\net6.0\FyMaxMin1.deps.json
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\bin\Debug\net6.0\FyMaxMin1.runtimeconfig.json
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\bin\Debug\net6.0\FyMaxMin1.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\bin\Debug\net6.0\FyMaxMin1.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.AssemblyInfo.cs
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\refint\FyMaxMin1.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\FyMaxMin1.genruntimeconfig.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FyMaxMin1\obj\Debug\net6.0\ref\FyMaxMin1.dll
