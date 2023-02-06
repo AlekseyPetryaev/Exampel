@@ -1,0 +1,15 @@
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\bin\Debug\net6.0\FactorFibonach.exe
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\bin\Debug\net6.0\FactorFibonach.deps.json
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\bin\Debug\net6.0\FactorFibonach.runtimeconfig.json
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\bin\Debug\net6.0\FactorFibonach.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\bin\Debug\net6.0\FactorFibonach.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.AssemblyInfo.cs
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\refint\FactorFibonach.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\FactorFibonach.genruntimeconfig.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Lecture\FactorFibonach\obj\Debug\net6.0\ref\FactorFibonach.dll

@@ -3,35 +3,6 @@
 1, -7, 567, 89, 223, -> 3*/
 
 Console.Clear();
-/*
-int[] ReadArray(int Length, int min, int max) 
-{
-    int[] array = new int[Length];
-    for(int i = 0; i < Length ; i++)
-    {
-        Console.Write("Введите элемент: ");
-        array[i] = int.Parse(Console.ReadLine()!);
-    }   
-    return array;   
-}
-
-int PrintArray(int[] array)
-{
-    int count = 0;///////////////////////////////////////////////////////////////
-    for(int i = 0; i < array.Length; i++)
-    {       
-        if(array[i] > 0 ) count ++;
-    }   
-    return count;
-}
-
-int[] array = ReadArray(7, -1000, 1000 );
-Console.WriteLine(string.Join(" ", array));
-Console.WriteLine($"Ответ: {PrintArray(array)}");
-*/
-///Начало 2
-
-//Вариант 2 
 
 Console.Write("Введите числа через запятую: ");
   int[] numbers = StringToNum(Console.ReadLine()!);
@@ -49,7 +20,7 @@ Console.Write("Введите числа через запятую: ");
       int count = 1;
       for (int i = 0; i < input.Length; i++)
       {
-        if (input[i] == ' ') count++;
+        if (input[i] == ',') count++;
       }
   
       int[] numbers = new int [count];
@@ -59,7 +30,7 @@ Console.Write("Введите числа через запятую: ");
       {
           string temp = "";
   
-          while (input [i] != ' ')
+          while (input [i] != ',')
           {
           if(i != input.Length - 1)
           {
@@ -81,7 +52,7 @@ Console.Write("Введите числа через запятую: ");
   {
       for (int i = 0; i < array.Length; i++)
       {
-          Console.Write(array[i] + " ");
+          Console.Write(array[i] + ", ");
       }
   }
 
