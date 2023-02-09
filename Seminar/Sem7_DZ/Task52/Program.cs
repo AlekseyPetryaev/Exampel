@@ -6,7 +6,12 @@
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.*/
 Console.Clear();
 
-int[,] table = new int[3, 4];
+Console.Write("Введите количество строк: ");
+int line = int.Parse(Console.ReadLine()!);
+Console.Write("Введите количество столбцов: ");
+int colu = int.Parse(Console.ReadLine()!);
+
+int[,] table = new int[line, colu];
 GetArray(table);
 PrintArray0(table);
 
