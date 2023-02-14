@@ -1,0 +1,15 @@
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\bin\Debug\net6.0\Task54.exe
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\bin\Debug\net6.0\Task54.deps.json
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\bin\Debug\net6.0\Task54.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\bin\Debug\net6.0\Task54.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\refint\Task54.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\Task54\obj\Debug\net6.0\ref\Task54.dll

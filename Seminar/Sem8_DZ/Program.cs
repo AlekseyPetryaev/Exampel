@@ -44,6 +44,113 @@
 11 16 15 06
 10 09 08 07*/
 
+//Вариант 1
+/*
+Console.Write("Введите кол-во строк: ");
+int line = int.Parse(Console.ReadLine()!);
+Console.Write("Введите кол-во столбцов: ");
+int colu = int.Parse(Console.ReadLine()!);
+
+int[,] matrix = new int[line, colu];
+
+void randomArray(int[,] array)
+{
+    for(int i = 0; i < array.GetLength(0); i++)
+    {
+        for(int j = 0; j < array.GetLength(1); j++)
+        {
+            array[i, j] = new Random().Next(01, 15);
+        }
+    }
+}
+
+void FillArraySpiral(int[,] array ,int n)
+{
+    int i = 0, j = 0;
+    int value = 1;
+    for (int e = 0; e < n * n; e++)
+    {
+        int k = 0;
+        do { array[i, j++] = value++; } while (++k < n - 1);
+        for (k = 0; k < n - 1; k++) array[i++, j] = value++;
+        for (k = 0; k < n - 1; k++) array[i, j--] = value++;
+        for (k = 0; k < n - 1; k++) array[i--, j] = value++;
+        ++i; ++j;
+        n = n < 2 ? 0 : n - 2;
+    }
+}
+void PrintArray(int[, ] inArray)
+{
+    for(int i = 0; i < inArray.GetLength(0); i++)
+    {
+        for(int j = 0; j < inArray.GetLength(1); j++)
+        {
+            if(inArray[i, j] < 10)
+            {
+                Console.Write("0" + inArray[i, j]);
+                Console.Write(" ");
+            }
+            else
+            {
+                Console.Write($"{inArray[i, j]} ");
+            } 
+        }
+        Console.WriteLine("  ");
+    }
+}
+
+void main()
+{
+    randomArray(matrix);
+    PrintArray(matrix);
+    FillArraySpiral(matrix);
+}    
+
+main();
+*/
+/*
+//Вариант 2
+int num = 4;
+int[,] matrix = new int[num, num];
+FillArraySpiral(matrix, num);
+PrintArray(matrix);
+
+void FillArraySpiral(int[,] array ,int n)
+{
+    int i = 0, j = 0;
+    int value = 1;
+    for (int e = 0; e < n * n; e++)
+    {
+        int k = 0;
+        do { array[i, j++] = value++; } while (++k < n - 1);
+        for (k = 0; k < n - 1; k++) array[i++, j] = value++;
+        for (k = 0; k < n - 1; k++) array[i, j--] = value++;
+        for (k = 0; k < n - 1; k++) array[i--, j] = value++;
+        ++i; ++j;
+        n = n < 2 ? 0 : n - 2;
+    }
+}
+void PrintArray(int[, ] inArray)
+{
+    for(int i = 0; i < inArray.GetLength(0); i++)
+    {
+        for(int j = 0; j < inArray.GetLength(1); j++)
+        {
+            if(inArray[i, j] < 10)
+            {
+                Console.Write("0" + inArray[i, j]);
+                Console.Write(" ");
+            }
+            else
+            {
+                Console.Write($"{inArray[i, j]} ");
+            } 
+        }
+        Console.WriteLine("  ");
+    }
+}
+*/
+
 /*Задача со звездочкой:
 Написать функцию Sqrt(x) - квадратного корня, которая принимает на вход целочисленное значение x и возвращает целую часть квадратного корня от введенного числа.
 4 -> 2

@@ -1,0 +1,5 @@
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\obj\Debug\net6.0\Sem8_DZ.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\obj\Debug\net6.0\Sem8_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\obj\Debug\net6.0\Sem8_DZ.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\obj\Debug\net6.0\Sem8_DZ.AssemblyInfo.cs
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem8_DZ\obj\Debug\net6.0\Sem8_DZ.csproj.CoreCompileInputs.cache
