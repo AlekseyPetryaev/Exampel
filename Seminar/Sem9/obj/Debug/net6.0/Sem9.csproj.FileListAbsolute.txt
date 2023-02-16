@@ -1,0 +1,15 @@
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\bin\Debug\net6.0\Sem9.exe
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\bin\Debug\net6.0\Sem9.deps.json
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\bin\Debug\net6.0\Sem9.runtimeconfig.json
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\bin\Debug\net6.0\Sem9.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\bin\Debug\net6.0\Sem9.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.AssemblyInfo.cs
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\refint\Sem9.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\Sem9.genruntimeconfig.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9\obj\Debug\net6.0\ref\Sem9.dll

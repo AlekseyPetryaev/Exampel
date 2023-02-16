@@ -1,0 +1,15 @@
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\bin\Debug\net6.0\Task66_1.exe
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\bin\Debug\net6.0\Task66_1.deps.json
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\bin\Debug\net6.0\Task66_1.runtimeconfig.json
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\bin\Debug\net6.0\Task66_1.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\bin\Debug\net6.0\Task66_1.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.AssemblyInfoInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.AssemblyInfo.cs
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\refint\Task66_1.dll
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.pdb
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\Task66_1.genruntimeconfig.cache
+C:\Users\petra\Desktop\Vscode\Exampel\Seminar\Sem9_DZ\Task66_1\obj\Debug\net6.0\ref\Task66_1.dll
